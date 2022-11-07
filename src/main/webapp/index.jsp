@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Tomcat Deployment Learning</h2>
-<h6>Maven Project to deploy war file to tomcat server</h6>
+<h1>Tomcat Deployment Learning</h1>
+  <p>Maven Project to deploy war file to tomcat server using <b>jenkins automation</b></p>
 </body>
 </html>
