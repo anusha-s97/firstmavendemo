@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>AS Sports</title>
-	<link rel="stylesheet" type="text/css" href="https://github.com/anusha-s97/firstmavendemo/blob/master/src/main/webapp/assports.css">
+	<link rel="stylesheet" type="text/css" href=https://github.com/anusha-s97/firstmavendemo/blob/master/src/main/webapp/assports.css">
 </head>
 <body>
 	<div id="showcase">
