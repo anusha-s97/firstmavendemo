@@ -11,10 +11,8 @@
 	<ul>
 		<li>Mughal Empire</li>
 		<li>British Empire</li>
-		<ol type="a">
-			<li>Mongol Empire</li>
-			<li>Russian Empire</li>
-		</ol>
+		<li>Maratha Empire</li>
+		<li>Ashoka Empire</li>
 	</ul>
 	<li>Mathematics</li>
 	<ol type="1">
